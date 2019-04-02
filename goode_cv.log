@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  26 FEB 2019 22:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 APR 2019 19:38
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **goode_cv.tex
 (./goode_cv.tex
@@ -158,21 +157,39 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \openout2 = `structure.aux'.
 
 No file structure.tex.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count100
+\LTcapwidth=\dimen122
+\LT@head=\box52
+\LT@firsthead=\box53
+\LT@foot=\box54
+\LT@lastfoot=\box55
+\LT@cols=\count101
+\LT@rows=\count102
+\c@LT@tables=\count103
+\c@LT@chunks=\count104
+\LT@p@ftn=\toks17
+)
 (./goode_cv.aux)
 \openout1 = `goode_cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -210,17 +227,17 @@ LaTeX Font Info:    ... okay on input line 11.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count100
-\scratchdimen=\dimen122
-\scratchbox=\box52
-\nofMPsegments=\count101
-\nofMParguments=\count102
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count103
-\MPscratchDim=\dimen123
-\MPnumerator=\count104
-\makeMPintoPDFobject=\count105
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count105
+\scratchdimen=\dimen123
+\scratchbox=\box56
+\nofMPsegments=\count106
+\nofMParguments=\count107
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen124
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
+\everyMPtoPDFconversion=\toks19
 ) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -265,58 +282,18 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Underfull \hbox (badness 10000) in paragraph at lines 13--17
+LaTeX Font Info:    Try loading font information for U+msa on input line 20.
 
- []
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 20.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22--36
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--60
-
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+[]\OT1/cmr/m/sc/10.95 Research
  []
 
 [1
@@ -324,75 +301,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--60
 
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 67--86
-
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+[]\OT1/cmr/m/sc/10.95 Contributed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--86
-
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]|\OT1/cmr/m/sc/10.95 Teaching
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--86
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--99
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 100.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--110
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 113--115
-
- []
-
-[3] (./goode_cv.aux) ) 
+[2] [3] (./goode_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 2475 strings out of 493089
- 34563 string characters out of 6134842
- 102234 words of memory out of 5000000
- 5949 multiletter control sequences out of 15000+600000
- 5716 words of font info for 21 fonts, out of 8000000 for 9000
+ 2590 strings out of 493089
+ 35928 string characters out of 6134842
+ 115990 words of memory out of 5000000
+ 6044 multiletter control sequences out of 15000+600000
+ 10017 words of font info for 38 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 37i,4n,43p,289b,171s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb>
-Output written on goode_cv.pdf (3 pages, 64160 bytes).
+ 37i,8n,43p,300b,200s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmtt10.pfb>
+Output written on goode_cv.pdf (3 pages, 97650 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 38 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
