@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 APR 2019 16:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  11 APR 2019 22:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -282,54 +282,74 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 20.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 20.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-[]\OT1/cmr/m/sc/10.95 Research
- []
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no ™ in font cmbx10!
 
 [1
 
 
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
-[]\OT1/cmr/m/sc/10.95 Contributed
- []
+Overfull \vbox (6.18748pt too high) has occurred while \output is active []
 
 
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 117--117
-[]|\OT1/cmr/m/sc/10.95 Teaching
+[]|\OT1/cmr/bx/n/10.95 Seminar
  []
 
-[2] [3] (./goode_cv.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+[]|\OT1/cmr/bx/n/10.95 Teaching
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+[]|\OT1/cmr/bx/n/10.95 Academic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]|\OT1/cmr/bx/n/10.95 Statistics
+ []
+
+
+Overfull \hbox (4.35298pt too wide) in alignment at lines 116--136
+ [] [] [] [] 
+ []
+
+[3]
+LaTeX Font Info:    Try loading font information for U+msa on input line 150.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 150.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [4]
+(./goode_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 2590 strings out of 493089
- 35928 string characters out of 6134842
- 115990 words of memory out of 5000000
- 6044 multiletter control sequences out of 15000+600000
+ 2598 strings out of 493089
+ 35970 string characters out of 6134842
+ 118253 words of memory out of 5000000
+ 6052 multiletter control sequences out of 15000+600000
  10017 words of font info for 38 fonts, out of 8000000 for 9000
  1142 hyphenation exceptions out of 8191
- 37i,8n,43p,295b,200s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmtt10.pfb>
-Output written on goode_cv.pdf (3 pages, 97700 bytes).
+ 37i,8n,43p,703b,204s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mti10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+tt10.pfb>
+Output written on goode_cv.pdf (4 pages, 107250 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 45 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
