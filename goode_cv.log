@@ -1,24 +1,24 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.15)  17 FEB 2021 11:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.22)  24 FEB 2021 22:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **goode_cv.tex
 (./goode_cv.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-06>
+L3 programming layer <2021-02-18>
 (/Users/katherinegoode/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (/Users/katherinegoode/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count177
-\c@section=\count178
-\c@subsection=\count179
-\c@subsubsection=\count180
-\c@paragraph=\count181
-\c@subparagraph=\count182
-\c@figure=\count183
-\c@table=\count184
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
@@ -37,9 +37,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/Users/katherinegoode/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count185
-\Gm@cntv=\count186
-\c@Gm@tempcnt=\count187
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
 \Gm@bindingoffset=\dimen139
 \Gm@wd@mp=\dimen140
 \Gm@odd@mp=\dimen141
@@ -104,14 +104,14 @@ rs
 )
 (/Users/katherinegoode/Library/TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count188
+\c@tracingmulticols=\count190
 \mult@box=\box47
 \multicol@leftmargin=\dimen149
-\c@unbalance=\count189
-\c@collectmore=\count190
-\doublecol@number=\count191
-\multicoltolerance=\count192
-\multicolpretolerance=\count193
+\c@unbalance=\count191
+\c@collectmore=\count192
+\doublecol@number=\count193
+\multicoltolerance=\count194
+\multicolpretolerance=\count195
 \full@width=\dimen150
 \page@free=\dimen151
 \premulticols=\dimen152
@@ -162,15 +162,15 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box88
 \@tempa=\box89
 \@tempa=\box90
-\c@minrows=\count194
-\c@columnbadness=\count195
-\c@finalcolumnbadness=\count196
+\c@minrows=\count196
+\c@columnbadness=\count197
+\c@finalcolumnbadness=\count198
 \last@try=\dimen155
 \multicolovershoot=\dimen156
 \multicolundershoot=\dimen157
 \mult@nat@firstbox=\box91
 \colbreak@box=\box92
-\mc@col@check@num=\count197
+\mc@col@check@num=\count199
 )
 \@input{structure.aux}
 \openout2 = `structure.aux'.
@@ -183,22 +183,22 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTright=\skip61
 \LTpre=\skip62
 \LTpost=\skip63
-\LTchunksize=\count198
+\LTchunksize=\count266
 \LTcapwidth=\dimen158
 \LT@head=\box93
 \LT@firsthead=\box94
 \LT@foot=\box95
 \LT@lastfoot=\box96
-\LT@cols=\count199
-\LT@rows=\count266
-\c@LT@tables=\count267
-\c@LT@chunks=\count268
+\LT@cols=\count267
+\LT@rows=\count268
+\c@LT@tables=\count269
+\c@LT@chunks=\count270
 \LT@p@ftn=\toks18
 )
 (/Users/katherinegoode/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend
 -pdftex.def
-File: l3backend-pdftex.def 2021-02-06 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count269
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count271
 \l__pdf_internal_box=\box97
 ) (./goode_cv.aux)
 \openout1 = `goode_cv.aux'.
@@ -318,13 +318,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 [4] [5] (./goode_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 2332 strings out of 481250
- 33643 string characters out of 5914201
- 339595 words of memory out of 5000000
- 19277 multiletter control sequences out of 15000+600000
+ 2304 strings out of 480971
+ 32913 string characters out of 5906347
+ 352666 words of memory out of 5000000
+ 19528 multiletter control sequences out of 15000+600000
  406858 words of font info for 41 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
- 68i,8n,74p,292b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,8n,74p,292b,232s stack positions out of 5000i,500n,10000p,200000b,80000s
 </Users/katherinegoode/Library/TinyTeX/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmbx10.pfb></Users/katherinegoode/Library/TinyTeX/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/katherinegoode/Libr
@@ -334,7 +334,7 @@ rinegoode/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /cmr7.pfb></Users/katherinegoode/Library/TinyTeX/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmti10.pfb></Users/katherinegoode/Library/TinyTeX/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on goode_cv.pdf (5 pages, 116155 bytes).
+Output written on goode_cv.pdf (5 pages, 116146 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
