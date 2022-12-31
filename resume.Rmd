@@ -10,6 +10,23 @@ output:
 #knit: pagedown::chrome_print
 ---
 
+```{css, echo = FALSE}
+#skills{
+  margin: 0.1in;
+  line-height: 1.5;
+}
+
+#awards{
+  margin: 0.1in;
+  line-height: 1.5;
+}
+
+#awards ul{
+  margin: 0.15in 0 0in;
+  padding: 0;
+}
+```
+
 # Aside
 
 ![](images/kjg.jpg){width="385"}
@@ -25,13 +42,18 @@ output:
 
 - Statistical analyses, statistical learning, data visualization
 
-- Python, R, R Shiny, SAS, JMP, SPSS
+- GitHub, JMP, LaTeX, Python, R, R Markdown, R Shiny, SAS, SPSS
 
-- GitHub, LaTeX, R Markdown
+## Awards {#awards}
+
+- 2019 Midwest Statistical Machine Learning Colloquium Poster Award
+Awarded
+
+- 2018 ISU Department of Statistics Dan Mowrey Consulting Excellence Award
+
+- 2017 ISU Department of Statistics Award for Experiential Development
 
 ## Disclaimer {#disclaimer}
-
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
@@ -41,7 +63,7 @@ Last updated on `r Sys.Date()`.
 
 ### Statistician
 
-I am a statistician with research interests in model assessment, explainability of machine learning algorithms, data visualization, random forest models, and R package development. My PhD dissertation is [Visual diagnostics for explaining machine learning models](https://dr.lib.iastate.edu/items/abac51d2-c05b-4ef2-90f5-03740ff5c682).
+My research focuses on the explainability and interpretability of machine learning models. Other research interests include model assessment, data visualization, and random forest models. My full CV is available [here](https://goodekat.github.io/cv/goode_cv.pdf).
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -52,6 +74,8 @@ Ph.D in Statistics
 Ames, Iowa
 
 2021
+
+Thesis: [Visual diagnostics for explaining machine learning models](https://dr.lib.iastate.edu/items/abac51d2-c05b-4ef2-90f5-03740ff5c682)
 
 ### University of Wisconsin, Madison
 
@@ -69,7 +93,7 @@ Appleton, Wisconsin
 
 2013
 
-## Experience {data-icon="laptop"}
+## Experience {data-icon="gear"}
 
 ### Senior Member of Technical Staff
 
@@ -79,7 +103,7 @@ Albuquerque, NM
 
 Current - 2021
 
-Research and development of statistical methods for national security applications
+Research and development of statistical methods in application areas including climate and cyber security
 
 ### Postdoctoral Researcher
 
@@ -89,17 +113,7 @@ Albuquerque, NM
 
 2021
 
-Researched the use of elastic shape analysis with inverse models for functional data using and developed feature importance technique for echo state networks applied to climate data
-
-### Graduate Research Assisstant
-
-Iowa State University
-
-Ames, Iowa
-
-2021
-
-Developed R Shiny application to predict taxonomy of fish eggs using random forests
+Researched use of elastic shape analysis with inverse models for functional data using and developed feature importance technique for echo state networks applied to climate data
 
 ### Research and Development Intern
 
@@ -109,14 +123,24 @@ Albuquerque, NM
 
 2021 - 2019
 
-Developed explainabilty approach for neural networks trained on functional data
+Developed explainable machine learning pipeline for functional data Presented on work at internal and external events
+
+### Graduate Research Assisstant
+
+Natural Resource Ecology and Management, ISU
+
+Ames, Iowa
+
+2021 and 2019
+
+Developed R Shiny application to predict taxonomy of fish eggs using random forests (2021) and assisted with analysis of toxicology study of monarch butterfly larvae exposed to insecticides (2019)
 
 ### Statistical Consultant
 
-Agriculture Experiment Station, Iowa State University
+Agriculture Experiment Station, ISU
 
 Ames, Iowa
 
 2020 - 2016
 
-Provided statistical support on research projects for graduate students, professors, and staff
+Provided statistical support on research projects for graduate students, professors, and staff across university departments
