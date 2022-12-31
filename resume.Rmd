@@ -35,7 +35,7 @@ output:
 
 -   <i class="fa fa-paper-plane"></i> [kjgoode\@sandia.gov](mailto:kjgoode@sandia.gov){.email}
 -   <i class="fa fa-github"></i> [github.com/goodekat](https://github.com/goodekat)
--   <i class="fa fa-link"></i> [goodekat.github.io](goodekat.github.io)
+-   <i class="fa fa-link"></i> [goodekat.github.io](https://goodekat.github.io/)
 -   <i class="fa fa-phone"></i> +1 505-844-1998
 
 ## Skills {#skills}
