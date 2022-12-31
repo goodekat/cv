@@ -1,0 +1,122 @@
+---
+title: "Katherine Goode's resume"
+author: Katherine Goode
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+# Aside
+
+![](images/kjg.jpg){width="385"}
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-paper-plane"></i> [kjgoode\@sandia.gov](mailto:kjgoode@sandia.gov){.email}
+-   <i class="fa fa-github"></i> [github.com/goodekat](https://github.com/goodekat)
+-   <i class="fa fa-link"></i> [goodekat.github.io](goodekat.github.io)
+-   <i class="fa fa-phone"></i> +1 505-844-1998
+
+## Skills {#skills}
+
+- Statistical analyses, statistical learning, data visualization
+
+- Python, R, R Shiny, SAS, JMP, SPSS
+
+- GitHub, LaTeX, R Markdown
+
+## Disclaimer {#disclaimer}
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+# Main
+
+## Katherine Goode {#title}
+
+### Statistician
+
+I am a statistician with research interests in model assessment, explainability of machine learning algorithms, data visualization, random forest models, and R package development. My PhD dissertation is [Visual diagnostics for explaining machine learning models](https://dr.lib.iastate.edu/items/abac51d2-c05b-4ef2-90f5-03740ff5c682).
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### Iowa State University
+
+Ph.D in Statistics
+
+Ames, Iowa
+
+2021
+
+### University of Wisconsin, Madison
+
+M.S. in Statistics
+
+Madison, Wisconsin
+
+2015
+
+### Lawrence University
+
+B.A. in mathematics
+
+Appleton, Wisconsin
+
+2013
+
+## Experience {data-icon="laptop"}
+
+### Senior Member of Technical Staff
+
+Statistical Sciences, Sandia National Laboratories
+
+Albuquerque, NM
+
+Current - 2021
+
+Research and development of statistical methods for national security applications
+
+### Postdoctoral Researcher
+
+Statistical Sciences, Sandia National Laboratories
+
+Albuquerque, NM
+
+2021
+
+Researched the use of elastic shape analysis with inverse models for functional data using and developed feature importance technique for echo state networks applied to climate data
+
+### Graduate Research Assisstant
+
+Iowa State University
+
+Ames, Iowa
+
+2021
+
+Developed R Shiny application to predict taxonomy of fish eggs using random forests
+
+### Research and Development Intern
+
+Statistical Sciences, Sandia National Laboratories
+
+Albuquerque, NM
+
+2021 - 2019
+
+Developed explainabilty approach for neural networks trained on functional data
+
+### Statistical Consultant
+
+Agriculture Experiment Station, Iowa State University
+
+Ames, Iowa
+
+2020 - 2016
+
+Provided statistical support on research projects for graduate students, professors, and staff
