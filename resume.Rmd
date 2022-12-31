@@ -47,7 +47,6 @@ output:
 ## Awards {#awards}
 
 - 2019 Midwest Statistical Machine Learning Colloquium Poster Award
-Awarded
 
 - 2018 ISU Department of Statistics Dan Mowrey Consulting Excellence Award
 
