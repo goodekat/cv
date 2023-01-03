@@ -20,10 +20,6 @@ library(tibble)
 library(vitae)
 ```
 
-# Research Interests
-
-Model Assessment, Explainable Machine Learning, Data Visualization, Random Forests, R Package Development
-
 # Education
 
 ```{r education}
@@ -162,6 +158,10 @@ tribble(
   detailed_entries(Institution, Dates, Position, Where, Details)
 ```
 
+# Research Interests
+
+Model Assessment, Explainable Machine Learning, Data Visualization, Random Forests, R Package Development
+
 # Publications
 
 ```{r}
@@ -173,5 +173,19 @@ bibliography_entries("papers.bib") %>%
 
 ```{r}
 bibliography_entries("talks.bib") %>%
+  arrange(desc(issued), author$family)
+```
+
+# Posters
+
+```{r}
+bibliography_entries("posters.bib") %>%
+  arrange(desc(issued), author$family)
+```
+
+# Software
+
+```{r}
+bibliography_entries("software.bib") %>%
   arrange(desc(issued), author$family)
 ```
