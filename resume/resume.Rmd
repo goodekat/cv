@@ -29,7 +29,7 @@ output:
 
 # Aside
 
-![](images/kjg.jpg){width="385"}
+![](kjg.jpg){width="100%"}
 
 ## Contact Info {#contact}
 
