@@ -23,8 +23,6 @@ library(tibble)
 library(vitae)
 ```
 
-\vspace{-0.5cm}
-
 # Education
 
 ```{r education-ISU}
@@ -114,8 +112,16 @@ tribble(
   ~ Where,
   ~ Details,
   
+  "Senior Member of Technical Staff",
+  "Dec 2021 - Current",
+  "Statistical Sciences Department", 
+  "Sandia National Laboratories",
+  c(
+    "Research and development statistician"
+  ), 
+  
   "Postdoctoral Researcher",
-  "Sep 2021 - Current",
+  "Sep 2021 - Dec 2021",
   "Statistical Sciences Department", 
   "Sandia National Laboratories",
   c(
@@ -150,7 +156,8 @@ tribble(
   "Iowa State University",
   c(
     "Senior consultant from May 2018 to May 2020",
-    "Helped with administrative decisions and trained new consultants",
+    "Helped with administrative decisions",
+    "Trained and mentored new consultants",
     "Provided statistical support on research projects for graduate students, professors, and staff from the colleges of agriculture and life sciences, engineering, human sciences, liberal arts and sciences, and veterinary medicine",
     "Assisted with the implementation of analyses in R, SAS, JMP, and SPSS"
   ),
@@ -418,41 +425,26 @@ tribble(
 ```{r service}
 tribble(
   ~Year,
-  ~Award,
   ~Desc,
   "Sep 2019 - May 2020",
-  " ",
   "Iowa State statistical graphics working group weekly seminar organizer",
-  
   "Sep 2018 - May 2019",
-  " ",
   "Graduate student representative to ISU statistics department faculty meetings",
-  
   "Sep 2017 - May 2019",
-  " ",
   "Recycling coordinator for ISU STATers (Statistics Graduate Student Organization)",
-  
   "Sep 2017 - May 2019",
-  " ",
   "Treasurer and member of StatCom (Statistics in the Community) at Iowa State"
-  
 ) %>%
-  detailed_entries(Desc, Year, Award)
+  detailed_entries(Desc, Year)
 ```
 
 # Skills
 
 ```{r skills}
 tribble(
-  ~Year,
-  ~Award,
   ~Desc,
-  " ",
-  " ",
   "Working Knowledge: GitHub, JMP, LaTeX, Python, R, R Markdown, R Shiny, SAS",
-  " ",
-  " ",
   "Basic Knowledge: C, SPSS"
 ) %>%
-  detailed_entries(Desc, Year, Award)
+  detailed_entries(Desc)
 ```
