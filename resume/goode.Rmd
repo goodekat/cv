@@ -6,7 +6,7 @@ output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
-knit: pagedown::chrome_print
+#knit: pagedown::chrome_print
 ---
 
 ```{css, echo = FALSE}
@@ -52,10 +52,6 @@ knit: pagedown::chrome_print
 -   2018 ISU Department of Statistics Dan Mowrey Consulting Excellence Award
 
 -   2017 ISU Department of Statistics Award for Experiential Development
-
-## Disclaimer {#disclaimer}
-
-Last updated on `r Sys.Date()`.
 
 # Main
 
