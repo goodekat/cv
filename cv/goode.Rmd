@@ -88,6 +88,9 @@ tribble(
   ~Year,
   ~Award,
   ~Desc,
+  2023,
+  "Sandia National Laboratories Up and Coming Innovator Award",
+  "",
   2019,
   "Midwest Statistical Machine Learning Colloquium Poster Award",
   "Awarded for `Using LIME to Interpret a Random Forest Model with an Application to Bullet Matching Data'",
@@ -197,28 +200,28 @@ tribble(
 # Publications
 
 ```{r}
-bibliography_entries("papers.bib") %>%
+bibliography_entries("../references/papers.bib") %>%
   arrange(desc(issued), author$family)
 ```
 
 # Talks
 
 ```{r}
-bibliography_entries("talks.bib") %>%
+bibliography_entries("../references/talks.bib") %>%
   arrange(desc(issued), author$family)
 ```
 
 # Posters
 
 ```{r}
-bibliography_entries("posters.bib") %>%
+bibliography_entries("../references/posters.bib") %>%
   arrange(desc(issued), author$family)
 ```
 
 # Software
 
 ```{r}
-bibliography_entries("software.bib") %>%
+bibliography_entries("../references/software.bib") %>%
   arrange(desc(issued), author$family)
 ```
 

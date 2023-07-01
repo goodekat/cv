@@ -39,17 +39,19 @@ knit: pagedown::chrome_print
 
 ## Skills {#skills}
 
-- Statistical analyses, statistical learning, data visualization
+-   Statistical analyses, statistical learning, data visualization
 
-- GitHub, JMP, LaTeX, Python, R, R Markdown, R Shiny, SAS, SPSS
+-   GitHub, JMP, LaTeX, Python, R, R Markdown, R Shiny, SAS, SPSS
 
 ## Awards {#awards}
 
-- 2019 Midwest Statistical Machine Learning Colloquium Poster Award
+-   2023 Sandia National Laboratories Up and Coming Innovator Award
 
-- 2018 ISU Department of Statistics Dan Mowrey Consulting Excellence Award
+-   2019 Midwest Statistical Machine Learning Colloquium Poster Award
 
-- 2017 ISU Department of Statistics Award for Experiential Development
+-   2018 ISU Department of Statistics Dan Mowrey Consulting Excellence Award
+
+-   2017 ISU Department of Statistics Award for Experiential Development
 
 ## Disclaimer {#disclaimer}
 
