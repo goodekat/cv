@@ -28,7 +28,7 @@ output:
 
 # Aside
 
-![](kjg.jpg){width="100%"}
+![](kjg.jpg){width="80%"}
 
 ## Contact Info {#contact}
 
@@ -52,6 +52,11 @@ output:
 -   2018 ISU Department of Statistics Dan Mowrey Consulting Excellence Award
 
 -   2017 ISU Department of Statistics Award for Experiential Development
+
+### Research
+
+- [Publications](https://scholar.google.com/citations?hl=en&user=yD_b79UAAAAJ)
+- [Presentations](https://goodekat.github.io/presentations.html)
 
 # Main
 
@@ -140,3 +145,55 @@ Ames, Iowa
 2020 - 2016
 
 Provided statistical support on research projects for graduate students, professors, and staff across university departments
+
+## Software {data-icon="laptop"}
+
+### veesa
+
+R package
+
+github.com/sandialabs/veesa
+
+2023
+
+Explainable machine learning with functional data
+
+### TreeTracer
+
+R package
+
+github.com/goodekat/TreeTracer/
+
+2022
+
+Trace plots using ggplot2.
+
+### limeaid
+
+R package
+
+github.com/goodekat/limeaid
+
+2021
+
+Diagnose LIME explanations.
+
+### redres
+
+R package
+
+github.com/goodekat/redres.git
+
+2019
+
+Residuals and diagnostic plots for mixed models.
+
+### ggResidpanel
+
+R package
+
+CRAN.R-project.org/package=ggResidpanel
+
+2019
+
+Panels and interactive versions of diagnostic plots using ggplot2.
