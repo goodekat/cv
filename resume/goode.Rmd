@@ -152,7 +152,7 @@ Provided statistical support on research projects for graduate students, profess
 
 R package
 
-github.com/sandialabs/veesa
+[github.com/sandialabs/veesa](github.com/sandialabs/veesa)
 
 2023
 
@@ -162,7 +162,7 @@ Explainable machine learning with functional data
 
 R package
 
-github.com/goodekat/TreeTracer/
+[github.com/goodekat/TreeTracer/](github.com/goodekat/TreeTracer/)
 
 2022
 
@@ -172,7 +172,7 @@ Trace plots using ggplot2.
 
 R package
 
-github.com/goodekat/limeaid
+[github.com/goodekat/limeaid](github.com/goodekat/limeaid)
 
 2021
 
@@ -182,7 +182,7 @@ Diagnose LIME explanations.
 
 R package
 
-github.com/goodekat/redres.git
+[github.com/goodekat/redres.git](github.com/goodekat/redres.git)
 
 2019
 
@@ -192,7 +192,7 @@ Residuals and diagnostic plots for mixed models.
 
 R package
 
-CRAN.R-project.org/package=ggResidpanel
+[CRAN.R-project.org/package=ggResidpanel](CRAN.R-project.org/package=ggResidpanel)
 
 2019
 
