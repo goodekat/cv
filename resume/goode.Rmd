@@ -30,12 +30,14 @@ output:
 
 ![](kjg.jpg){width="80%"}
 
-## Contact Info {#contact}
+## {#contact}
 
 -   <i class="fa fa-paper-plane"></i> [kjgoode\@sandia.gov](mailto:kjgoode@sandia.gov){.email}
 -   <i class="fa fa-github"></i> [github.com/goodekat](https://github.com/goodekat)
 -   <i class="fa fa-link"></i> [goodekat.github.io](https://goodekat.github.io/)
--   <i class="fa fa-phone"></i> +1 505-844-1998
+-   <i class="fa fa-linkedin"></i> [linkedin](www.linkedin.com/in/katherine-goode-363517a9/)
+-   <i class="fa fa-google"></i> [Publications](https://scholar.google.com/citations?hl=en&user=yD_b79UAAAAJ)
+-   <i class="fa fa-person-chalkboard"></i> [Presentations](https://goodekat.github.io/presentations.html)
 
 ## Skills {#skills}
 
@@ -52,11 +54,6 @@ output:
 -   2018 ISU Department of Statistics Dan Mowrey Consulting Excellence Award
 
 -   2017 ISU Department of Statistics Award for Experiential Development
-
-### Research
-
-- [Publications](https://scholar.google.com/citations?hl=en&user=yD_b79UAAAAJ)
-- [Presentations](https://goodekat.github.io/presentations.html)
 
 # Main
 
