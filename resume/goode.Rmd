@@ -145,6 +145,16 @@ Provided statistical support on research projects for graduate students, profess
 
 ## Software {data-icon="laptop"}
 
+### listenr
+
+R package
+
+[github.com/sandialabs/listenr](github.com/sandialabs/listenr)
+
+2024
+
+Echo state networks with spatio-temporal feature importance
+
 ### veesa
 
 R package

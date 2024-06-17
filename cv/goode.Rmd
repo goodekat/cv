@@ -44,8 +44,6 @@ tribble(
   detailed_entries(Degree, Year, Institution, Where, Details)
 ```
 
-\vspace{-0.5cm}
-
 ```{r education-UW}
 tribble(
   ~ Degree,
@@ -120,7 +118,8 @@ tribble(
   "Statistical Sciences Department", 
   "Sandia National Laboratories",
   c(
-    "Research and development statistician"
+    "Research and development statistician",
+    " "
   ), 
   
   "Postdoctoral Researcher",
@@ -130,7 +129,8 @@ tribble(
   c(
     "Performed research on inverse models with functional data",
     "Implemented shape analysis methods with national security data",
-    "Prepared manuscript for submission to peer reviewed journal"
+    "Prepared manuscript for submission to peer reviewed journal",
+    " "
   ), 
   
   "Research and Development Intern",
@@ -140,7 +140,8 @@ tribble(
   c(
     "Performed research on neural networks explainability with functional data",
     "Applied explainability methods to machine learning models",
-    "Presented on work at internal and external events"
+    "Presented on work at internal and external events",
+    " "
   ),
   
   "Graduate Research Assistant",
@@ -162,7 +163,8 @@ tribble(
     "Helped with administrative decisions",
     "Trained and mentored new consultants",
     "Provided statistical support on research projects for graduate students, professors, and staff from the colleges of agriculture and life sciences, engineering, human sciences, liberal arts and sciences, and veterinary medicine",
-    "Assisted with the implementation of analyses in R, SAS, JMP, and SPSS"
+    "Assisted with the implementation of analyses in R, SAS, JMP, and SPSS",
+    " "
   ),
   
   "Graduate Research Assistant",
@@ -172,7 +174,8 @@ tribble(
   c(
     "Assisted with analysis of toxicology study of monarch butterfly larvae exposed to insecticides",
     "Wrote R code to compute profile confidence intervals for dose response curve models",
-    "Collaboration with Dr. Steven Bradbury and PhD Student Niranjana Krishnan"
+    "Collaboration with Dr. Steven Bradbury and PhD Student Niranjana Krishnan",
+    " "
   ),
   
   "Data Analyst",
@@ -181,7 +184,8 @@ tribble(
   "Lawrence University",
   c(
     "Analyzed data from a study to compare the academic success and mood towards the university of undergraduates from freshman to sophomore years",
-    "Performed statistical analyses using SPSS"
+    "Performed statistical analyses using SPSS",
+    " "
   ),
 
   "Data Collection Assistant",
@@ -196,6 +200,8 @@ tribble(
 ) %>%
   detailed_entries(Institution, Dates, Position, Where, Details)
 ```
+
+\vspace{0.25cm}
 
 # Publications
 
@@ -251,6 +257,8 @@ tribble(
   detailed_entries(Institution, Dates, Position, Where, Details)
 ```
 
+\vspace{0.25cm}
+
 # Teaching
 
 **Workshops**
@@ -275,6 +283,8 @@ tribble(
   detailed_entries(Institution, Dates, Position, Where, Details)
 ```
 
+\vspace{0.5cm}
+
 **Instructor**
 
 ```{r teaching-instructor}
@@ -292,7 +302,8 @@ tribble(
   c(
     "Prepared and led lectures",
     "Wrote and graded exams",
-    "Topics included summary statistics, visualization, normal distribution, hypothesis testing, confidence intervals, and JMP"
+    "Topics included summary statistics, visualization, normal distribution, hypothesis testing, confidence intervals, and JMP",
+    " "
   ),
   
   "MATH 107: Elementary statistics",
@@ -308,6 +319,8 @@ tribble(
 ) %>%
   detailed_entries(Institution, Dates, Position, Where, Details)
 ```
+
+\vspace{0.5cm}
 
 **Teaching Assistant**
 
@@ -326,7 +339,8 @@ tribble(
   c(
     "Taught labs",
     "Held office hours",
-    "Topics included simple and multiple linear regression, logistic regression, survival analysis, and SAS"
+    "Topics included simple and multiple linear regression, logistic regression, survival analysis, and SAS",
+    " "
   ),
   
   "BMI 551: Introduction to biostatistics for population health graduate students",
@@ -336,7 +350,8 @@ tribble(
   c(
     "Taught labs",
     "Held office hours",
-    "Topics included summary statistics, visualizations, probability, normal distributions, hypothesis testing, confidence intervals, and R"
+    "Topics included summary statistics, visualizations, probability, normal distributions, hypothesis testing, confidence intervals, and R",
+    " "
   ),
   
   "STAT 301: Introduction to statistical methods for nonstatistics majors",
@@ -347,7 +362,8 @@ tribble(
     "Prepared and led discussions",
     "Graded homework and exams",
     "Held office hours",
-    "Topics included summary statistics, visualizations, probability, normal distributions, hypothesis testing, and confidence intervals"
+    "Topics included summary statistics, visualizations, probability, normal distributions, hypothesis testing, and confidence intervals",
+    " "
   ),
   
   "STAT 302: Accelerated introduction to statistical methods for statistics undergraduate majors",
@@ -358,7 +374,8 @@ tribble(
     "Prepared and led discussions",
     "Graded homework and exams",
     "Held office hours",
-    "Topics included summary statistics, visualizations, randomization tests, bootstrap, normal distribution, hypothesis testing, confidence intervals, and R"
+    "Topics included summary statistics, visualizations, randomization tests, bootstrap, normal distribution, hypothesis testing, confidence intervals, and R",
+    " "
   ),
   
   "STAT 371: Introductory applied statistics for the life sciences",
@@ -375,6 +392,8 @@ tribble(
 ) %>%
   detailed_entries(Institution, Dates, Position, Where, Details)
 ```
+
+\vspace{0.5cm}
 
 **Mentor**
 
@@ -399,6 +418,8 @@ tribble(
 ) %>%
   detailed_entries(Institution, Dates, Position, Where, Details)
 ```
+
+\vspace{0.5cm}
 
 **Tutor**
 
