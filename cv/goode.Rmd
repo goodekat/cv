@@ -3,7 +3,6 @@ name: "Katherine"
 surname: "Goode"
 position: "Research and Development Statistician"
 address: "Sandia National Laboratories, P.O. Box 5800 MS 0829, Albuquerque, NM 87185"
-phone: "505-844-1998"
 www: "goodekat.github.io"
 email: "kjgoode@sandia.gov"
 github: "github.com/goodekat"
@@ -44,7 +43,7 @@ tribble(
   detailed_entries(Degree, Year, Institution, Where, Details)
 ```
 
-\vspace{-0.5cm}
+\vspace{0.25cm}
 
 ```{r education-UW}
 tribble(
@@ -60,7 +59,7 @@ tribble(
   detailed_entries(Degree, Year, Institution, Where)
 ```
 
-\vspace{-0.5cm}
+\vspace{-0.25cm}
 
 ```{r education-LU}
 tribble(
@@ -80,6 +79,8 @@ tribble(
 ) %>%
   detailed_entries(Degree, Year, Institution, Where, Details)
 ```
+
+\vspace{0.5cm}
 
 # Awards
 
@@ -120,7 +121,8 @@ tribble(
   "Statistical Sciences Department", 
   "Sandia National Laboratories",
   c(
-    "Research and development statistician"
+    "Research and development statistician",
+    " "
   ), 
   
   "Postdoctoral Researcher",
@@ -129,7 +131,8 @@ tribble(
   "Sandia National Laboratories",
   c(
     "Performed research on inverse models with functional data",
-    "Implemented shape analysis methods with national security data"
+    "Implemented shape analysis methods with national security data",
+    " "
   ), 
   
   "Research and Development Intern",
@@ -138,7 +141,8 @@ tribble(
   "Sandia National Laboratories",
   c(
     "Performed research on neural networks explainability with functional data",
-    "Applied explainability methods to machine learning models"
+    "Applied explainability methods to machine learning models",
+    " "
   ),
   
   "Graduate Research Assistant",
@@ -160,7 +164,8 @@ tribble(
     "Helped with administrative decisions",
     "Trained and mentored new consultants",
     "Provided statistical support on research projects for graduate students, professors, and staff from the colleges of agriculture and life sciences, engineering, human sciences, liberal arts and sciences, and veterinary medicine",
-    "Assisted with the implementation of analyses in R, SAS, JMP, and SPSS"
+    "Assisted with the implementation of analyses in R, SAS, JMP, and SPSS",
+    " "
   ),
   
   "Graduate Research Assistant",
@@ -170,7 +175,8 @@ tribble(
   c(
     "Assisted with analysis of toxicology study of monarch butterfly larvae exposed to insecticides",
     "Wrote R code to compute profile confidence intervals for dose response curve models",
-    "Collaboration with Dr. Steven Bradbury and PhD Student Niranjana Krishnan"
+    "Collaboration with Dr. Steven Bradbury and PhD Student Niranjana Krishnan",
+    " "
   ),
   
   "Data Analyst",
@@ -179,7 +185,8 @@ tribble(
   "Lawrence University",
   c(
     "Analyzed data from a study to compare the academic success and mood towards the university of undergraduates from freshman to sophomore years",
-    "Performed statistical analyses using SPSS"
+    "Performed statistical analyses using SPSS",
+    " "
   ),
 
   "Data Collection Assistant",
@@ -201,6 +208,13 @@ tribble(
 
 ```{r}
 bibliography_entries("../references/papers.bib") %>%
+  arrange(desc(issued), author$family)
+```
+
+# Reports
+
+```{r}
+bibliography_entries("../references/reports.bib") %>%
   arrange(desc(issued), author$family)
 ```
 
@@ -277,6 +291,8 @@ tribble(
   detailed_entries(Institution, Dates, Position, Where, Details)
 ```
 
+\vspace{0.5cm}
+
 **Instructor**
 
 ```{r teaching-instructor}
@@ -294,7 +310,8 @@ tribble(
   c(
     "Prepared and led lectures",
     "Wrote and graded exams",
-    "Topics included summary statistics, visualization, normal distribution, hypothesis testing, confidence intervals, and JMP"
+    "Topics included summary statistics, visualization, normal distribution, hypothesis testing, confidence intervals, and JMP",
+    ""
   ),
   
   "MATH 107: Elementary statistics",
@@ -310,6 +327,8 @@ tribble(
 ) %>%
   detailed_entries(Institution, Dates, Position, Where, Details)
 ```
+
+\vspace{0.5cm}
 
 **Teaching Assistant**
 
@@ -328,7 +347,8 @@ tribble(
   c(
     "Taught labs",
     "Held office hours",
-    "Topics included simple and multiple linear regression, logistic regression, survival analysis, and SAS"
+    "Topics included simple and multiple linear regression, logistic regression, survival analysis, and SAS",
+    " "
   ),
   
   "BMI 551: Introduction to biostatistics for population health graduate students",
@@ -338,7 +358,8 @@ tribble(
   c(
     "Taught labs",
     "Held office hours",
-    "Topics included summary statistics, visualizations, probability, normal distributions, hypothesis testing, confidence intervals, and R"
+    "Topics included summary statistics, visualizations, probability, normal distributions, hypothesis testing, confidence intervals, and R",
+    " "
   ),
   
   "STAT 301: Introduction to statistical methods for nonstatistics majors",
@@ -349,7 +370,8 @@ tribble(
     "Prepared and led discussions",
     "Graded homework and exams",
     "Held office hours",
-    "Topics included summary statistics, visualizations, probability, normal distributions, hypothesis testing, and confidence intervals"
+    "Topics included summary statistics, visualizations, probability, normal distributions, hypothesis testing, and confidence intervals",
+    " "
   ),
   
   "STAT 302: Accelerated introduction to statistical methods for statistics undergraduate majors",
@@ -360,7 +382,8 @@ tribble(
     "Prepared and led discussions",
     "Graded homework and exams",
     "Held office hours",
-    "Topics included summary statistics, visualizations, randomization tests, bootstrap, normal distribution, hypothesis testing, confidence intervals, and R"
+    "Topics included summary statistics, visualizations, randomization tests, bootstrap, normal distribution, hypothesis testing, confidence intervals, and R",
+    " "
   ),
   
   "STAT 371: Introductory applied statistics for the life sciences",
@@ -377,6 +400,8 @@ tribble(
 ) %>%
   detailed_entries(Institution, Dates, Position, Where, Details)
 ```
+
+\vspace{0.5cm}
 
 **Mentor**
 
@@ -401,6 +426,8 @@ tribble(
 ) %>%
   detailed_entries(Institution, Dates, Position, Where, Details)
 ```
+
+\vspace{0.5cm}
 
 **Tutor**
 
