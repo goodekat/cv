@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.27)  3 MAR 2025 15:28
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.3.13)  14 MAR 2025 16:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -632,6 +632,9 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 LaTeX Warning: Label `ref-goode:2025' multiply defined.
 
 
+LaTeX Warning: Label `ref-goode:2025' multiply defined.
+
+
 LaTeX Warning: Label `ref-goode:2023' multiply defined.
 
 
@@ -816,7 +819,7 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
 
 [3]
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/b/n' will be
-(Font)              scaled to size 10.95pt on input line 533.
+(Font)              scaled to size 10.95pt on input line 539.
 
 
 [4]
@@ -833,10 +836,10 @@ Package rerunfilecheck Info: File `goode.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32982 strings out of 475846
- 673685 string characters out of 5773966
- 1245463 words of memory out of 5000000
- 55374 multiletter control sequences out of 15000+600000
+ 32984 strings out of 475848
+ 673803 string characters out of 5774274
+ 1245403 words of memory out of 5000000
+ 55373 multiletter control sequences out of 15000+600000
  563185 words of font info for 125 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  131i,11n,135p,543b,643s stack positions out of 10000i,1000n,20000p,200000b,200000s
