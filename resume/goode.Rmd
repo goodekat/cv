@@ -69,7 +69,7 @@ a, a:visited, a:hover, a:active {
 
 ### Statistician
 
-I’m a research and development statistician at Sandia National Labs. My research focuses on the development, evaluation, and application of explainable machine learning. My full CV is available [here](https://goodekat.github.io/cv/goode_cv.pdf).
+I’m a research and development statistician at Sandia National Labs. My research focuses on the development, evaluation, and application of explainable machine learning. My full CV is available [here](https://goodekat.github.io/cv/cv/goode.pdf).
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
