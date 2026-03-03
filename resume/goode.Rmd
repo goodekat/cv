@@ -74,7 +74,7 @@ Ames, Iowa
 
 2021
 
-Thesis: [Visual diagnostics for explaining machine learning models](https://dr.lib.iastate.edu/items/abac51d2-c05b-4ef2-90f5-03740ff5c682)
+Thesis: [Visual diagnostics for explaining machine learning models](https://dr.lib.iastate.edu/entities/publication/97e4c882-5721-404a-9621-bdced5ee1569)
 
 ### University of Wisconsin, Madison
 
