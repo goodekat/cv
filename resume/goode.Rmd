@@ -26,6 +26,13 @@ output:
 }
 ```
 
+```{css, echo=FALSE}
+a, a:visited, a:hover, a:active {
+  color: blue; /* Or your desired color */
+  text-decoration: none; /* Optional: removes the underline */
+}
+```
+
 # Aside
 
 ![](kjg.jpg){width="80%"}
