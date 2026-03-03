@@ -7,7 +7,7 @@ www: "goodekat.github.io"
 email: "kjgoode@sandia.gov"
 github: "github.com/goodekat"
 linkedin: "katherine-goode-363517a9"
-aboutme: "I’m a research and development statistician at Sandia National Labs. My research interests include model assessment, explainable machine learning, and data visualization. I enjoy consulting and collaborating with scientists on data analyses."
+aboutme: "I’m a research and development statistician at Sandia National Labs. My research interests include explainable machine learning, model assessment, and data visualization. I enjoy consulting and collaborating with scientists on data analyses."
 headcolor: "0A3FF2"
 date: "Last Updated: `r format(Sys.time(), '%B %Y')`"
 output: 
@@ -215,7 +215,7 @@ bibliography_entries("../references/papers.bib") %>%
 
 ```{r}
 bibliography_entries("../references/reports.bib") %>%
-  arrange(desc(issued), author$family)
+  arrange(desc(issued), id)
 ```
 
 # Talks
@@ -229,7 +229,7 @@ bibliography_entries("../references/talks.bib") %>%
 
 ```{r}
 bibliography_entries("../references/posters.bib") %>%
-  arrange(desc(issued), author$family)
+  arrange(desc(id))
 ```
 
 # Software
