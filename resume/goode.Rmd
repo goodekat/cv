@@ -45,7 +45,7 @@ a, a:visited, a:hover, a:active {
 -   <i class="fa fa-linkedin"></i> [linkedin](https://www.linkedin.com/in/katherine-goode-363517a9/)
 -   <i class="fa fa-google"></i> [Publications](https://scholar.google.com/citations?hl=en&user=yD_b79UAAAAJ)
 -   <i class="fa fa-person-chalkboard"></i> [Presentations](https://goodekat.github.io/presentations.html)
--   <i class="fa fa-laptop"></i> [Software](https://goodekat.github.io/software.html)
+<!-- -   <i class="fa fa-laptop"></i> [Software](https://goodekat.github.io/software.html) -->
 
 ## Skills {#skills}
 
